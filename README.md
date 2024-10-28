@@ -115,6 +115,4 @@ This project provides a simple API to translate text into different languages an
 - Ensure that the server running the application has write permissions for the `media/` folder.
 - The `MEDIA_URL` should be properly configured in the Django settings to serve the generated audio files.
 
-## Contributing
-Feel free to submit issues or pull requests if you find any bugs or want to add new features.
 
